@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="bg-green-100 h-screen relative flex items-center justify-center">
-      <div className="bg-white https://tailwind-form-beta.vercel.app/  max-w-md w-full mx-auto absolute  p-4 shadow-md rounded-lg">
+      <div className="bg-white h-screen mt-10  max-w-md w-full mx-auto absolute  p-4 shadow-md rounded-lg">
         <h2 className="text-3xl font-bold text-gray-600 mb-6">Contact Us</h2>
         <form action="">
           <div className="grid grid-cols-1 items-center  md:grid-cols-2 gap-3">
