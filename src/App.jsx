@@ -26,12 +26,12 @@ function App() {
           <div className="grid grid-cols-1 items-center mt-5 md:grid-cols-2 gap-2">
               
               <div >
-                <div className="w-full px-3 border border-gray-400  rounded-lg bg-white focus:outline-none ">
+                <div className="w-full px-3 border border-gray-400 text-gray-500 font-semibold text-sm rounded-lg bg-white focus:outline-none ">
                   <input  className="text-gray-500 font-semibold text-sm block" required type="radio" />General Enquiry</div>
               </div>
 
               <div >
-                <div className="w-full px-3 border border-gray-400  rounded-lg bg-white focus:outline-none ">
+                <div className="w-full px-3 border border-gray-400 text-gray-500 font-semibold text-sm rounded-lg bg-white focus:outline-none ">
                   <input className="text-gray-500 font-semibold text-sm block" required type="radio" />Support Request</div>
               </div>
 
