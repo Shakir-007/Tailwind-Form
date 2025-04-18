@@ -23,7 +23,7 @@ function App() {
 
           <label className="text-gray-500 mb-2 font-semibold text-sm block  mt-5" htmlFor="name">Query Type *</label>
 
-          <div className="grid grid-cols-1 items-center mt-5 border-4  md:grid-cols-2 gap-2">
+          <div className="grid grid-cols-1 items-center mt-5 md:grid-cols-2 gap-2">
               
               <div >
                 <div className="w-full px-3 border border-gray-400  rounded-lg bg-white focus:outline-none ">
